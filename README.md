@@ -1,4 +1,4 @@
-#Temperature-robust Learned Image Recovery for Shallow-designed Imaging Systems
+# Temperature-robust Learned Image Recovery for Shallow-designed Imaging Systems
 Official Implementation of the Paper "Temperature-robust Learned Image Recovery
 for Shallow-designed Imaging Systems"
 
@@ -6,7 +6,7 @@ for Shallow-designed Imaging Systems"
 
 If you have any questions, please directly comment on GitHub or through email:22030006@zju.edu.cn.
 
-#Instruction
+# Instruction
 ![pipeline](paper_image/pipeline.png)
 A temperature-robust, multibranch computational imaging modality is developed, 
 using generative adversarial networks as the postprocessing to compensate for 
@@ -15,7 +15,7 @@ imaging systems. With the temperature division and dataset mixture, the proposed
 multibranch scheme outperforms traditional athermalization and is beneficial to 
 lowering the design and manufacturing cost of the imaging system.
 
-##Prepare dataset
+## Prepare dataset
 1. Download the dataset and crop the image size
 
     We assign 612 images as our training dataset and some ones as the test set from the [Adobe5K dataset](https://data.csail.mit.edu/graphics/fivek/), and 
