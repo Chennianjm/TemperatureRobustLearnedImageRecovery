@@ -52,7 +52,7 @@ Based on the temperature detectors, the user can detect the temperature and invo
 
 ## Results
     
-   <video controls height='100%' width='100%' src="paper_image/real_capture.mp4"></video>
+   ![simulation](paper_image/simulation.gif)
 
 ## Citation
    If you find our code helpful in your research or work please cite our paper.
