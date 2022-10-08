@@ -53,6 +53,8 @@ Based on the temperature detectors, the user can detect the temperature and invo
 ## Results
     
    ![simulation](paper_image/simulation.gif)
+   ![real_capture](paper_image/real_capture.gif)
+   
 
 ## Citation
    If you find our code helpful in your research or work please cite our paper.
