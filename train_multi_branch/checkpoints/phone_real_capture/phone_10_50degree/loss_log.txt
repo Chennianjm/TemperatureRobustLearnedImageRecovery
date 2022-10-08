@@ -1,0 +1,579 @@
+================ Training Loss (Sun May  1 11:54:04 2022) ================
+(epoch: 1, iters: 300, time: 0.258) G_GAN: 0.018 ContentLoss: 16.525 D_real+fake: -0.633 
+(epoch: 1, iters: 600, time: 0.270) G_GAN: -0.569 ContentLoss: 26.425 D_real+fake: -0.709 
+(epoch: 2, iters: 288, time: 0.271) G_GAN: -0.836 ContentLoss: 22.403 D_real+fake: -0.603 
+(epoch: 2, iters: 588, time: 0.284) G_GAN: -1.264 ContentLoss: 21.346 D_real+fake: -0.465 
+(epoch: 3, iters: 276, time: 0.257) G_GAN: -0.169 ContentLoss: 19.052 D_real+fake: -0.306 
+(epoch: 3, iters: 576, time: 0.267) G_GAN: -1.809 ContentLoss: 11.909 D_real+fake: -0.210 
+(epoch: 4, iters: 264, time: 0.274) G_GAN: -1.046 ContentLoss: 9.831 D_real+fake: -0.139 
+(epoch: 4, iters: 564, time: 0.279) G_GAN: -1.519 ContentLoss: 12.470 D_real+fake: -0.518 
+(epoch: 5, iters: 252, time: 0.256) G_GAN: 0.788 ContentLoss: 25.387 D_real+fake: -0.137 
+(epoch: 5, iters: 552, time: 0.270) G_GAN: 0.292 ContentLoss: 20.244 D_real+fake: -0.414 
+(epoch: 6, iters: 240, time: 0.279) G_GAN: -0.838 ContentLoss: 14.192 D_real+fake: -0.204 
+(epoch: 6, iters: 540, time: 0.271) G_GAN: 0.494 ContentLoss: 19.493 D_real+fake: -0.379 
+(epoch: 7, iters: 228, time: 0.259) G_GAN: -0.037 ContentLoss: 16.738 D_real+fake: -0.321 
+(epoch: 7, iters: 528, time: 0.258) G_GAN: 2.169 ContentLoss: 25.160 D_real+fake: -0.713 
+(epoch: 8, iters: 216, time: 0.272) G_GAN: 1.369 ContentLoss: 12.770 D_real+fake: -0.549 
+(epoch: 8, iters: 516, time: 0.258) G_GAN: -0.498 ContentLoss: 24.838 D_real+fake: -0.193 
+(epoch: 9, iters: 204, time: 0.282) G_GAN: 1.313 ContentLoss: 12.513 D_real+fake: -0.535 
+(epoch: 9, iters: 504, time: 0.267) G_GAN: 1.143 ContentLoss: 25.740 D_real+fake: -1.003 
+(epoch: 10, iters: 192, time: 0.261) G_GAN: -1.135 ContentLoss: 23.785 D_real+fake: -0.624 
+(epoch: 10, iters: 492, time: 0.268) G_GAN: 0.105 ContentLoss: 12.295 D_real+fake: -0.299 
+(epoch: 11, iters: 180, time: 0.275) G_GAN: -1.153 ContentLoss: 25.481 D_real+fake: -0.619 
+(epoch: 11, iters: 480, time: 0.265) G_GAN: -0.376 ContentLoss: 18.904 D_real+fake: -0.260 
+(epoch: 12, iters: 168, time: 0.284) G_GAN: -0.623 ContentLoss: 19.057 D_real+fake: -0.290 
+(epoch: 12, iters: 468, time: 0.274) G_GAN: 0.227 ContentLoss: 13.001 D_real+fake: -0.199 
+(epoch: 13, iters: 156, time: 0.267) G_GAN: -0.648 ContentLoss: 16.632 D_real+fake: -0.187 
+(epoch: 13, iters: 456, time: 0.258) G_GAN: 1.120 ContentLoss: 18.765 D_real+fake: -0.681 
+(epoch: 14, iters: 144, time: 0.264) G_GAN: -0.266 ContentLoss: 18.802 D_real+fake: -0.415 
+(epoch: 14, iters: 444, time: 0.256) G_GAN: 0.874 ContentLoss: 14.741 D_real+fake: -0.217 
+(epoch: 15, iters: 132, time: 0.260) G_GAN: -1.026 ContentLoss: 23.415 D_real+fake: -0.552 
+(epoch: 15, iters: 432, time: 0.282) G_GAN: -2.087 ContentLoss: 22.772 D_real+fake: -0.374 
+(epoch: 16, iters: 120, time: 0.258) G_GAN: -4.721 ContentLoss: 27.473 D_real+fake: -0.704 
+(epoch: 16, iters: 420, time: 0.263) G_GAN: -0.003 ContentLoss: 17.479 D_real+fake: -0.275 
+(epoch: 17, iters: 108, time: 0.265) G_GAN: 0.283 ContentLoss: 15.199 D_real+fake: -0.442 
+(epoch: 17, iters: 408, time: 0.260) G_GAN: -1.417 ContentLoss: 18.642 D_real+fake: -0.024 
+(epoch: 18, iters: 96, time: 0.266) G_GAN: -1.138 ContentLoss: 29.273 D_real+fake: -0.497 
+(epoch: 18, iters: 396, time: 0.272) G_GAN: 0.644 ContentLoss: 23.621 D_real+fake: -0.713 
+(epoch: 19, iters: 84, time: 0.261) G_GAN: -0.789 ContentLoss: 11.699 D_real+fake: -0.189 
+(epoch: 19, iters: 384, time: 0.269) G_GAN: 0.382 ContentLoss: 11.700 D_real+fake: -0.079 
+(epoch: 20, iters: 72, time: 0.266) G_GAN: -0.108 ContentLoss: 26.299 D_real+fake: -0.952 
+(epoch: 20, iters: 372, time: 0.262) G_GAN: -1.112 ContentLoss: 20.417 D_real+fake: -0.602 
+(epoch: 21, iters: 60, time: 0.261) G_GAN: 0.910 ContentLoss: 13.297 D_real+fake: -0.081 
+(epoch: 21, iters: 360, time: 0.271) G_GAN: -0.718 ContentLoss: 23.551 D_real+fake: -0.385 
+(epoch: 22, iters: 48, time: 0.261) G_GAN: -0.804 ContentLoss: 17.994 D_real+fake: -0.259 
+(epoch: 22, iters: 348, time: 0.266) G_GAN: -1.232 ContentLoss: 24.519 D_real+fake: -0.274 
+(epoch: 23, iters: 36, time: 0.333) G_GAN: -1.942 ContentLoss: 29.049 D_real+fake: -0.639 
+(epoch: 23, iters: 336, time: 0.280) G_GAN: 0.370 ContentLoss: 20.867 D_real+fake: -0.464 
+(epoch: 24, iters: 24, time: 0.439) G_GAN: 0.197 ContentLoss: 23.045 D_real+fake: -0.099 
+(epoch: 24, iters: 324, time: 0.271) G_GAN: 0.694 ContentLoss: 13.295 D_real+fake: -0.249 
+(epoch: 25, iters: 12, time: 0.426) G_GAN: 1.973 ContentLoss: 17.467 D_real+fake: -0.241 
+(epoch: 25, iters: 312, time: 0.268) G_GAN: 0.577 ContentLoss: 25.471 D_real+fake: -0.759 
+(epoch: 25, iters: 612, time: 0.258) G_GAN: -0.158 ContentLoss: 22.607 D_real+fake: -0.453 
+(epoch: 26, iters: 300, time: 0.276) G_GAN: 0.330 ContentLoss: 14.966 D_real+fake: -0.457 
+(epoch: 26, iters: 600, time: 0.273) G_GAN: 1.016 ContentLoss: 19.272 D_real+fake: -0.582 
+(epoch: 27, iters: 288, time: 0.262) G_GAN: -0.682 ContentLoss: 16.334 D_real+fake: -0.131 
+(epoch: 27, iters: 588, time: 0.265) G_GAN: -0.434 ContentLoss: 21.028 D_real+fake: -0.342 
+(epoch: 28, iters: 276, time: 0.262) G_GAN: 1.109 ContentLoss: 11.654 D_real+fake: -0.214 
+(epoch: 28, iters: 576, time: 0.269) G_GAN: -1.150 ContentLoss: 14.922 D_real+fake: -0.200 
+(epoch: 29, iters: 264, time: 0.263) G_GAN: -0.078 ContentLoss: 11.976 D_real+fake: -0.186 
+(epoch: 29, iters: 564, time: 0.264) G_GAN: -0.125 ContentLoss: 23.374 D_real+fake: -0.229 
+(epoch: 30, iters: 252, time: 0.262) G_GAN: 1.566 ContentLoss: 19.251 D_real+fake: -0.370 
+(epoch: 30, iters: 552, time: 0.279) G_GAN: -0.952 ContentLoss: 14.550 D_real+fake: -0.204 
+(epoch: 31, iters: 240, time: 0.272) G_GAN: -0.366 ContentLoss: 19.448 D_real+fake: -0.474 
+(epoch: 31, iters: 540, time: 0.271) G_GAN: -0.192 ContentLoss: 16.787 D_real+fake: -0.560 
+(epoch: 32, iters: 228, time: 0.273) G_GAN: -1.891 ContentLoss: 23.500 D_real+fake: -0.262 
+(epoch: 32, iters: 528, time: 0.263) G_GAN: -0.693 ContentLoss: 14.883 D_real+fake: -0.111 
+(epoch: 33, iters: 216, time: 0.282) G_GAN: -0.470 ContentLoss: 14.049 D_real+fake: -0.159 
+(epoch: 33, iters: 516, time: 0.289) G_GAN: -0.192 ContentLoss: 24.803 D_real+fake: -0.940 
+(epoch: 34, iters: 204, time: 0.263) G_GAN: 0.065 ContentLoss: 18.369 D_real+fake: -0.426 
+(epoch: 34, iters: 504, time: 0.263) G_GAN: -0.408 ContentLoss: 22.221 D_real+fake: -0.172 
+(epoch: 35, iters: 192, time: 0.269) G_GAN: -1.072 ContentLoss: 18.075 D_real+fake: -0.244 
+(epoch: 35, iters: 492, time: 0.269) G_GAN: -0.958 ContentLoss: 21.426 D_real+fake: -0.277 
+(epoch: 36, iters: 180, time: 0.280) G_GAN: 1.759 ContentLoss: 17.109 D_real+fake: -0.454 
+(epoch: 36, iters: 480, time: 0.267) G_GAN: 1.702 ContentLoss: 14.618 D_real+fake: -1.876 
+(epoch: 37, iters: 168, time: 0.273) G_GAN: 0.288 ContentLoss: 15.608 D_real+fake: -0.076 
+(epoch: 37, iters: 468, time: 0.272) G_GAN: 0.456 ContentLoss: 18.034 D_real+fake: -0.195 
+(epoch: 38, iters: 156, time: 0.262) G_GAN: -0.867 ContentLoss: 19.111 D_real+fake: -0.141 
+(epoch: 38, iters: 456, time: 0.283) G_GAN: -0.871 ContentLoss: 30.674 D_real+fake: -0.774 
+(epoch: 39, iters: 144, time: 0.260) G_GAN: -1.020 ContentLoss: 22.357 D_real+fake: -0.424 
+(epoch: 39, iters: 444, time: 0.263) G_GAN: 0.782 ContentLoss: 11.160 D_real+fake: -0.195 
+(epoch: 40, iters: 132, time: 0.262) G_GAN: 1.051 ContentLoss: 17.124 D_real+fake: -0.457 
+(epoch: 40, iters: 432, time: 0.282) G_GAN: 1.299 ContentLoss: 14.894 D_real+fake: -0.321 
+(epoch: 41, iters: 120, time: 0.258) G_GAN: 1.313 ContentLoss: 19.427 D_real+fake: -0.533 
+(epoch: 41, iters: 420, time: 0.273) G_GAN: -0.870 ContentLoss: 20.247 D_real+fake: -0.496 
+(epoch: 42, iters: 108, time: 0.269) G_GAN: 1.042 ContentLoss: 17.239 D_real+fake: -0.401 
+(epoch: 42, iters: 408, time: 0.269) G_GAN: -0.260 ContentLoss: 22.085 D_real+fake: -0.678 
+(epoch: 43, iters: 96, time: 0.267) G_GAN: -0.140 ContentLoss: 11.262 D_real+fake: -0.268 
+(epoch: 43, iters: 396, time: 0.260) G_GAN: -0.748 ContentLoss: 8.368 D_real+fake: -0.065 
+(epoch: 44, iters: 84, time: 0.272) G_GAN: 0.164 ContentLoss: 16.174 D_real+fake: -0.144 
+(epoch: 44, iters: 384, time: 0.267) G_GAN: 0.882 ContentLoss: 16.230 D_real+fake: -0.168 
+(epoch: 45, iters: 72, time: 0.266) G_GAN: 0.047 ContentLoss: 16.855 D_real+fake: -0.215 
+(epoch: 45, iters: 372, time: 0.280) G_GAN: -0.320 ContentLoss: 25.897 D_real+fake: -0.528 
+(epoch: 46, iters: 60, time: 0.263) G_GAN: 0.782 ContentLoss: 18.437 D_real+fake: 0.017 
+(epoch: 46, iters: 360, time: 0.256) G_GAN: 1.069 ContentLoss: 25.552 D_real+fake: -0.288 
+(epoch: 47, iters: 48, time: 0.282) G_GAN: 1.501 ContentLoss: 18.134 D_real+fake: -0.226 
+(epoch: 47, iters: 348, time: 0.257) G_GAN: 1.120 ContentLoss: 17.462 D_real+fake: -0.332 
+(epoch: 48, iters: 36, time: 0.390) G_GAN: 0.433 ContentLoss: 16.993 D_real+fake: -0.133 
+(epoch: 48, iters: 336, time: 0.272) G_GAN: 0.561 ContentLoss: 10.805 D_real+fake: -0.210 
+(epoch: 49, iters: 24, time: 0.428) G_GAN: -1.383 ContentLoss: 17.444 D_real+fake: -0.143 
+(epoch: 49, iters: 324, time: 0.266) G_GAN: -0.667 ContentLoss: 13.997 D_real+fake: -0.234 
+(epoch: 50, iters: 12, time: 0.412) G_GAN: -0.907 ContentLoss: 16.396 D_real+fake: -0.260 
+(epoch: 50, iters: 312, time: 0.256) G_GAN: -1.170 ContentLoss: 20.992 D_real+fake: -0.252 
+(epoch: 50, iters: 612, time: 0.276) G_GAN: -0.158 ContentLoss: 14.470 D_real+fake: -0.210 
+(epoch: 51, iters: 300, time: 0.259) G_GAN: 0.598 ContentLoss: 17.853 D_real+fake: -0.420 
+(epoch: 51, iters: 600, time: 0.256) G_GAN: 0.545 ContentLoss: 17.051 D_real+fake: -0.546 
+(epoch: 52, iters: 288, time: 0.257) G_GAN: -0.269 ContentLoss: 12.697 D_real+fake: -0.082 
+(epoch: 52, iters: 588, time: 0.268) G_GAN: 0.085 ContentLoss: 29.495 D_real+fake: -0.553 
+(epoch: 53, iters: 276, time: 0.265) G_GAN: -1.299 ContentLoss: 21.731 D_real+fake: -0.362 
+(epoch: 53, iters: 576, time: 0.267) G_GAN: -0.311 ContentLoss: 19.208 D_real+fake: -0.402 
+(epoch: 54, iters: 264, time: 0.270) G_GAN: -0.965 ContentLoss: 28.972 D_real+fake: -0.844 
+(epoch: 54, iters: 564, time: 0.267) G_GAN: -0.315 ContentLoss: 18.112 D_real+fake: -0.124 
+(epoch: 55, iters: 252, time: 0.270) G_GAN: -0.031 ContentLoss: 23.464 D_real+fake: -0.490 
+(epoch: 55, iters: 552, time: 0.267) G_GAN: -0.410 ContentLoss: 14.702 D_real+fake: -0.186 
+(epoch: 56, iters: 240, time: 0.276) G_GAN: 0.844 ContentLoss: 24.993 D_real+fake: -0.375 
+(epoch: 56, iters: 540, time: 0.276) G_GAN: -0.541 ContentLoss: 19.635 D_real+fake: -0.753 
+(epoch: 57, iters: 228, time: 0.274) G_GAN: 0.868 ContentLoss: 14.497 D_real+fake: -0.363 
+(epoch: 57, iters: 528, time: 0.263) G_GAN: 0.153 ContentLoss: 12.703 D_real+fake: -0.234 
+(epoch: 58, iters: 216, time: 0.265) G_GAN: -1.294 ContentLoss: 12.102 D_real+fake: -0.151 
+(epoch: 58, iters: 516, time: 0.266) G_GAN: -0.721 ContentLoss: 17.522 D_real+fake: -0.257 
+(epoch: 59, iters: 204, time: 0.262) G_GAN: 0.037 ContentLoss: 18.709 D_real+fake: -0.181 
+(epoch: 59, iters: 504, time: 0.262) G_GAN: -0.131 ContentLoss: 25.771 D_real+fake: -0.695 
+(epoch: 60, iters: 192, time: 0.282) G_GAN: -0.972 ContentLoss: 17.952 D_real+fake: -0.295 
+(epoch: 60, iters: 492, time: 0.285) G_GAN: 0.920 ContentLoss: 20.089 D_real+fake: -0.562 
+(epoch: 61, iters: 180, time: 0.262) G_GAN: -0.049 ContentLoss: 15.569 D_real+fake: -0.477 
+(epoch: 61, iters: 480, time: 0.274) G_GAN: 0.415 ContentLoss: 14.105 D_real+fake: -0.167 
+(epoch: 62, iters: 168, time: 0.280) G_GAN: -1.232 ContentLoss: 13.891 D_real+fake: -0.391 
+(epoch: 62, iters: 468, time: 0.265) G_GAN: -0.066 ContentLoss: 23.233 D_real+fake: -0.493 
+(epoch: 63, iters: 156, time: 0.258) G_GAN: -1.186 ContentLoss: 13.902 D_real+fake: -0.175 
+(epoch: 63, iters: 456, time: 0.267) G_GAN: 0.153 ContentLoss: 16.256 D_real+fake: -0.234 
+(epoch: 64, iters: 144, time: 0.268) G_GAN: 0.331 ContentLoss: 33.348 D_real+fake: -1.029 
+(epoch: 64, iters: 444, time: 0.274) G_GAN: -1.162 ContentLoss: 25.482 D_real+fake: -0.401 
+(epoch: 65, iters: 132, time: 0.261) G_GAN: 0.608 ContentLoss: 26.846 D_real+fake: -0.456 
+(epoch: 65, iters: 432, time: 0.264) G_GAN: -1.638 ContentLoss: 16.305 D_real+fake: -0.170 
+(epoch: 66, iters: 120, time: 0.263) G_GAN: -0.527 ContentLoss: 15.924 D_real+fake: -0.177 
+(epoch: 66, iters: 420, time: 0.258) G_GAN: -0.406 ContentLoss: 27.768 D_real+fake: -0.121 
+(epoch: 67, iters: 108, time: 0.282) G_GAN: -0.480 ContentLoss: 25.868 D_real+fake: -0.572 
+(epoch: 67, iters: 408, time: 0.269) G_GAN: -1.063 ContentLoss: 30.148 D_real+fake: -0.697 
+(epoch: 68, iters: 96, time: 0.261) G_GAN: 0.326 ContentLoss: 17.593 D_real+fake: -0.386 
+(epoch: 68, iters: 396, time: 0.262) G_GAN: -0.104 ContentLoss: 19.872 D_real+fake: -0.222 
+(epoch: 69, iters: 84, time: 0.262) G_GAN: 0.916 ContentLoss: 18.914 D_real+fake: -0.201 
+(epoch: 69, iters: 384, time: 0.259) G_GAN: 0.078 ContentLoss: 10.366 D_real+fake: -0.355 
+(epoch: 70, iters: 72, time: 0.267) G_GAN: -1.781 ContentLoss: 20.754 D_real+fake: -0.156 
+(epoch: 70, iters: 372, time: 0.267) G_GAN: -1.220 ContentLoss: 17.968 D_real+fake: -0.199 
+(epoch: 71, iters: 60, time: 0.270) G_GAN: 1.692 ContentLoss: 23.132 D_real+fake: -0.290 
+(epoch: 71, iters: 360, time: 0.267) G_GAN: -2.014 ContentLoss: 20.230 D_real+fake: -0.238 
+(epoch: 72, iters: 48, time: 0.266) G_GAN: -3.571 ContentLoss: 21.155 D_real+fake: -0.430 
+(epoch: 72, iters: 348, time: 0.266) G_GAN: -0.261 ContentLoss: 15.674 D_real+fake: -0.387 
+(epoch: 73, iters: 36, time: 0.305) G_GAN: 2.034 ContentLoss: 16.323 D_real+fake: -0.126 
+(epoch: 73, iters: 336, time: 0.271) G_GAN: 0.799 ContentLoss: 20.202 D_real+fake: -0.717 
+(epoch: 74, iters: 24, time: 0.407) G_GAN: -0.703 ContentLoss: 23.174 D_real+fake: -1.175 
+(epoch: 74, iters: 324, time: 0.275) G_GAN: -0.987 ContentLoss: 18.551 D_real+fake: -0.367 
+(epoch: 75, iters: 12, time: 0.441) G_GAN: 1.231 ContentLoss: 13.348 D_real+fake: -0.207 
+(epoch: 75, iters: 312, time: 0.282) G_GAN: -0.309 ContentLoss: 16.175 D_real+fake: -0.234 
+(epoch: 75, iters: 612, time: 0.266) G_GAN: 0.372 ContentLoss: 20.670 D_real+fake: -0.219 
+(epoch: 76, iters: 300, time: 0.278) G_GAN: -0.016 ContentLoss: 22.295 D_real+fake: -0.311 
+(epoch: 76, iters: 600, time: 0.273) G_GAN: -1.201 ContentLoss: 18.713 D_real+fake: -0.425 
+(epoch: 77, iters: 288, time: 0.267) G_GAN: -0.874 ContentLoss: 15.404 D_real+fake: -0.168 
+(epoch: 77, iters: 588, time: 0.268) G_GAN: 1.992 ContentLoss: 11.522 D_real+fake: -1.933 
+(epoch: 78, iters: 276, time: 0.270) G_GAN: -1.081 ContentLoss: 17.873 D_real+fake: -0.369 
+(epoch: 78, iters: 576, time: 0.258) G_GAN: 2.074 ContentLoss: 27.955 D_real+fake: -0.770 
+(epoch: 79, iters: 264, time: 0.259) G_GAN: -1.221 ContentLoss: 16.334 D_real+fake: -0.660 
+(epoch: 79, iters: 564, time: 0.280) G_GAN: -0.862 ContentLoss: 19.480 D_real+fake: -0.201 
+(epoch: 80, iters: 252, time: 0.273) G_GAN: 0.032 ContentLoss: 23.395 D_real+fake: -0.400 
+(epoch: 80, iters: 552, time: 0.272) G_GAN: -0.646 ContentLoss: 13.930 D_real+fake: -0.213 
+(epoch: 81, iters: 240, time: 0.265) G_GAN: 0.296 ContentLoss: 15.188 D_real+fake: -0.382 
+(epoch: 81, iters: 540, time: 0.258) G_GAN: 1.817 ContentLoss: 8.630 D_real+fake: -0.417 
+(epoch: 82, iters: 228, time: 0.271) G_GAN: -0.000 ContentLoss: 23.555 D_real+fake: -0.411 
+(epoch: 82, iters: 528, time: 0.258) G_GAN: -0.524 ContentLoss: 13.934 D_real+fake: -0.217 
+(epoch: 83, iters: 216, time: 0.280) G_GAN: 0.304 ContentLoss: 12.512 D_real+fake: -0.364 
+(epoch: 83, iters: 516, time: 0.263) G_GAN: -0.286 ContentLoss: 23.258 D_real+fake: -0.144 
+(epoch: 84, iters: 204, time: 0.270) G_GAN: 0.077 ContentLoss: 20.560 D_real+fake: -1.189 
+(epoch: 84, iters: 504, time: 0.266) G_GAN: 0.566 ContentLoss: 17.142 D_real+fake: -0.203 
+(epoch: 85, iters: 192, time: 0.262) G_GAN: -2.089 ContentLoss: 17.944 D_real+fake: -0.355 
+(epoch: 85, iters: 492, time: 0.275) G_GAN: -0.294 ContentLoss: 15.718 D_real+fake: -0.238 
+(epoch: 86, iters: 180, time: 0.270) G_GAN: -1.443 ContentLoss: 15.434 D_real+fake: -0.199 
+(epoch: 86, iters: 480, time: 0.268) G_GAN: -1.243 ContentLoss: 27.064 D_real+fake: -0.528 
+(epoch: 87, iters: 168, time: 0.270) G_GAN: 2.247 ContentLoss: 19.132 D_real+fake: -3.069 
+(epoch: 87, iters: 468, time: 0.269) G_GAN: 1.538 ContentLoss: 19.613 D_real+fake: -0.642 
+(epoch: 88, iters: 156, time: 0.257) G_GAN: -0.509 ContentLoss: 12.096 D_real+fake: -0.025 
+(epoch: 88, iters: 456, time: 0.273) G_GAN: 0.956 ContentLoss: 19.609 D_real+fake: -0.294 
+(epoch: 89, iters: 144, time: 0.265) G_GAN: 0.641 ContentLoss: 17.022 D_real+fake: -0.371 
+(epoch: 89, iters: 444, time: 0.261) G_GAN: -0.751 ContentLoss: 19.477 D_real+fake: -0.197 
+(epoch: 90, iters: 132, time: 0.275) G_GAN: -1.907 ContentLoss: 22.812 D_real+fake: -0.357 
+(epoch: 90, iters: 432, time: 0.272) G_GAN: 0.819 ContentLoss: 11.575 D_real+fake: -0.150 
+(epoch: 91, iters: 120, time: 0.262) G_GAN: -0.600 ContentLoss: 14.926 D_real+fake: -0.456 
+(epoch: 91, iters: 420, time: 0.263) G_GAN: 0.521 ContentLoss: 16.014 D_real+fake: -0.650 
+(epoch: 92, iters: 108, time: 0.274) G_GAN: -0.882 ContentLoss: 12.106 D_real+fake: -0.204 
+(epoch: 92, iters: 408, time: 0.276) G_GAN: 0.916 ContentLoss: 20.001 D_real+fake: -0.696 
+(epoch: 93, iters: 96, time: 0.271) G_GAN: -0.343 ContentLoss: 16.194 D_real+fake: -0.417 
+(epoch: 93, iters: 396, time: 0.264) G_GAN: -0.232 ContentLoss: 20.436 D_real+fake: -0.344 
+(epoch: 94, iters: 84, time: 0.257) G_GAN: 0.453 ContentLoss: 21.188 D_real+fake: -0.546 
+(epoch: 94, iters: 384, time: 0.279) G_GAN: -0.574 ContentLoss: 15.200 D_real+fake: -0.157 
+(epoch: 95, iters: 72, time: 0.257) G_GAN: -1.416 ContentLoss: 18.545 D_real+fake: -0.285 
+(epoch: 95, iters: 372, time: 0.271) G_GAN: -3.483 ContentLoss: 15.307 D_real+fake: -0.238 
+(epoch: 96, iters: 60, time: 0.263) G_GAN: -2.105 ContentLoss: 11.616 D_real+fake: -0.245 
+(epoch: 96, iters: 360, time: 0.264) G_GAN: -0.575 ContentLoss: 17.781 D_real+fake: -0.189 
+(epoch: 97, iters: 48, time: 0.270) G_GAN: 0.836 ContentLoss: 11.222 D_real+fake: -0.182 
+(epoch: 97, iters: 348, time: 0.263) G_GAN: -0.879 ContentLoss: 19.411 D_real+fake: -0.252 
+(epoch: 98, iters: 36, time: 0.294) G_GAN: -1.986 ContentLoss: 13.766 D_real+fake: -0.286 
+(epoch: 98, iters: 336, time: 0.269) G_GAN: -0.731 ContentLoss: 15.585 D_real+fake: -0.310 
+(epoch: 99, iters: 24, time: 0.455) G_GAN: -2.197 ContentLoss: 9.129 D_real+fake: -0.120 
+(epoch: 99, iters: 324, time: 0.260) G_GAN: -2.219 ContentLoss: 16.033 D_real+fake: -0.530 
+(epoch: 100, iters: 12, time: 0.413) G_GAN: -0.443 ContentLoss: 21.856 D_real+fake: -0.483 
+(epoch: 100, iters: 312, time: 0.276) G_GAN: -0.426 ContentLoss: 11.818 D_real+fake: -0.103 
+(epoch: 100, iters: 612, time: 0.266) G_GAN: -0.753 ContentLoss: 10.898 D_real+fake: -0.110 
+(epoch: 101, iters: 300, time: 0.273) G_GAN: 1.265 ContentLoss: 33.293 D_real+fake: -1.085 
+(epoch: 101, iters: 600, time: 0.272) G_GAN: 0.707 ContentLoss: 11.171 D_real+fake: -0.250 
+(epoch: 102, iters: 288, time: 0.262) G_GAN: -0.334 ContentLoss: 13.400 D_real+fake: -0.260 
+(epoch: 102, iters: 588, time: 0.259) G_GAN: -2.813 ContentLoss: 16.528 D_real+fake: -0.117 
+(epoch: 103, iters: 276, time: 0.260) G_GAN: -0.869 ContentLoss: 23.734 D_real+fake: -0.324 
+(epoch: 103, iters: 576, time: 0.261) G_GAN: -1.702 ContentLoss: 20.489 D_real+fake: -0.531 
+(epoch: 104, iters: 264, time: 0.261) G_GAN: 0.536 ContentLoss: 11.735 D_real+fake: -0.204 
+(epoch: 104, iters: 564, time: 0.284) G_GAN: -1.264 ContentLoss: 21.863 D_real+fake: -0.275 
+(epoch: 105, iters: 252, time: 0.265) G_GAN: -2.716 ContentLoss: 18.111 D_real+fake: -0.321 
+(epoch: 105, iters: 552, time: 0.265) G_GAN: -1.334 ContentLoss: 11.173 D_real+fake: -0.163 
+(epoch: 106, iters: 240, time: 0.272) G_GAN: -1.443 ContentLoss: 16.286 D_real+fake: -0.388 
+(epoch: 106, iters: 540, time: 0.271) G_GAN: -2.042 ContentLoss: 20.840 D_real+fake: -0.375 
+(epoch: 107, iters: 228, time: 0.280) G_GAN: -1.318 ContentLoss: 15.565 D_real+fake: -0.332 
+(epoch: 107, iters: 528, time: 0.273) G_GAN: 0.054 ContentLoss: 18.227 D_real+fake: -0.251 
+(epoch: 108, iters: 216, time: 0.269) G_GAN: -1.691 ContentLoss: 30.228 D_real+fake: -0.455 
+(epoch: 108, iters: 516, time: 0.268) G_GAN: -1.801 ContentLoss: 12.352 D_real+fake: -0.146 
+(epoch: 109, iters: 204, time: 0.275) G_GAN: -1.412 ContentLoss: 22.305 D_real+fake: -0.284 
+(epoch: 109, iters: 504, time: 0.261) G_GAN: -0.063 ContentLoss: 16.622 D_real+fake: -0.511 
+(epoch: 110, iters: 192, time: 0.261) G_GAN: -2.156 ContentLoss: 21.428 D_real+fake: -0.487 
+(epoch: 110, iters: 492, time: 0.272) G_GAN: -1.366 ContentLoss: 9.541 D_real+fake: -0.116 
+(epoch: 111, iters: 180, time: 0.267) G_GAN: -0.591 ContentLoss: 22.828 D_real+fake: -0.501 
+(epoch: 111, iters: 480, time: 0.271) G_GAN: -1.638 ContentLoss: 12.062 D_real+fake: -0.237 
+(epoch: 112, iters: 168, time: 0.262) G_GAN: -2.175 ContentLoss: 20.974 D_real+fake: -0.303 
+(epoch: 112, iters: 468, time: 0.265) G_GAN: -0.301 ContentLoss: 17.839 D_real+fake: -0.339 
+(epoch: 113, iters: 156, time: 0.264) G_GAN: -0.732 ContentLoss: 18.779 D_real+fake: -0.425 
+(epoch: 113, iters: 456, time: 0.267) G_GAN: -0.730 ContentLoss: 16.602 D_real+fake: -0.346 
+(epoch: 114, iters: 144, time: 0.280) G_GAN: -0.255 ContentLoss: 18.082 D_real+fake: -0.410 
+(epoch: 114, iters: 444, time: 0.279) G_GAN: -0.537 ContentLoss: 33.500 D_real+fake: -0.705 
+(epoch: 115, iters: 132, time: 0.268) G_GAN: -1.854 ContentLoss: 15.736 D_real+fake: -0.321 
+(epoch: 115, iters: 432, time: 0.272) G_GAN: -1.361 ContentLoss: 20.792 D_real+fake: -0.365 
+(epoch: 116, iters: 120, time: 0.285) G_GAN: 1.191 ContentLoss: 16.573 D_real+fake: -0.343 
+(epoch: 116, iters: 420, time: 0.273) G_GAN: -1.962 ContentLoss: 14.640 D_real+fake: -0.321 
+(epoch: 117, iters: 108, time: 0.270) G_GAN: 0.184 ContentLoss: 12.384 D_real+fake: -0.631 
+(epoch: 117, iters: 408, time: 0.267) G_GAN: -0.400 ContentLoss: 22.971 D_real+fake: -0.646 
+(epoch: 118, iters: 96, time: 0.260) G_GAN: 1.111 ContentLoss: 21.429 D_real+fake: -0.622 
+(epoch: 118, iters: 396, time: 0.258) G_GAN: -0.299 ContentLoss: 25.550 D_real+fake: -0.539 
+(epoch: 119, iters: 84, time: 0.268) G_GAN: -0.482 ContentLoss: 16.045 D_real+fake: -0.296 
+(epoch: 119, iters: 384, time: 0.262) G_GAN: -2.235 ContentLoss: 29.981 D_real+fake: -0.566 
+(epoch: 120, iters: 72, time: 0.274) G_GAN: -0.641 ContentLoss: 14.657 D_real+fake: -0.306 
+(epoch: 120, iters: 372, time: 0.271) G_GAN: -0.298 ContentLoss: 19.886 D_real+fake: -0.308 
+(epoch: 121, iters: 60, time: 0.262) G_GAN: -0.683 ContentLoss: 11.506 D_real+fake: -0.225 
+(epoch: 121, iters: 360, time: 0.270) G_GAN: -0.894 ContentLoss: 14.457 D_real+fake: -0.281 
+(epoch: 122, iters: 48, time: 0.292) G_GAN: -2.182 ContentLoss: 10.837 D_real+fake: -0.074 
+(epoch: 122, iters: 348, time: 0.269) G_GAN: -3.213 ContentLoss: 19.961 D_real+fake: -0.222 
+(epoch: 123, iters: 36, time: 0.332) G_GAN: -1.781 ContentLoss: 16.420 D_real+fake: -0.461 
+(epoch: 123, iters: 336, time: 0.266) G_GAN: 0.116 ContentLoss: 13.850 D_real+fake: -0.507 
+(epoch: 124, iters: 24, time: 0.391) G_GAN: 0.397 ContentLoss: 24.970 D_real+fake: -0.382 
+(epoch: 124, iters: 324, time: 0.263) G_GAN: 0.545 ContentLoss: 21.599 D_real+fake: -0.460 
+(epoch: 125, iters: 12, time: 0.405) G_GAN: -0.693 ContentLoss: 22.806 D_real+fake: -0.450 
+(epoch: 125, iters: 312, time: 0.262) G_GAN: -2.111 ContentLoss: 13.117 D_real+fake: -0.269 
+(epoch: 125, iters: 612, time: 0.266) G_GAN: -0.449 ContentLoss: 21.691 D_real+fake: -0.418 
+(epoch: 126, iters: 300, time: 0.271) G_GAN: -0.308 ContentLoss: 11.444 D_real+fake: -0.194 
+(epoch: 126, iters: 600, time: 0.263) G_GAN: -0.083 ContentLoss: 12.376 D_real+fake: -0.233 
+(epoch: 127, iters: 288, time: 0.281) G_GAN: -1.811 ContentLoss: 20.668 D_real+fake: -0.392 
+(epoch: 127, iters: 588, time: 0.279) G_GAN: -1.693 ContentLoss: 14.617 D_real+fake: -0.089 
+(epoch: 128, iters: 276, time: 0.269) G_GAN: -0.349 ContentLoss: 11.090 D_real+fake: -0.206 
+(epoch: 128, iters: 576, time: 0.261) G_GAN: 0.773 ContentLoss: 18.445 D_real+fake: -0.264 
+(epoch: 129, iters: 264, time: 0.269) G_GAN: -1.469 ContentLoss: 14.923 D_real+fake: -0.255 
+(epoch: 129, iters: 564, time: 0.281) G_GAN: -0.914 ContentLoss: 18.488 D_real+fake: -0.367 
+(epoch: 130, iters: 252, time: 0.269) G_GAN: -0.810 ContentLoss: 19.636 D_real+fake: -0.860 
+(epoch: 130, iters: 552, time: 0.277) G_GAN: 0.621 ContentLoss: 23.366 D_real+fake: -0.468 
+(epoch: 131, iters: 240, time: 0.275) G_GAN: -0.581 ContentLoss: 12.829 D_real+fake: -0.246 
+(epoch: 131, iters: 540, time: 0.266) G_GAN: -0.561 ContentLoss: 13.252 D_real+fake: -0.357 
+(epoch: 132, iters: 228, time: 0.284) G_GAN: -1.422 ContentLoss: 30.733 D_real+fake: -0.449 
+(epoch: 132, iters: 528, time: 0.266) G_GAN: -2.236 ContentLoss: 26.163 D_real+fake: -0.384 
+(epoch: 133, iters: 216, time: 0.263) G_GAN: -1.142 ContentLoss: 19.791 D_real+fake: -0.422 
+(epoch: 133, iters: 516, time: 0.262) G_GAN: -1.160 ContentLoss: 19.930 D_real+fake: -0.448 
+(epoch: 134, iters: 204, time: 0.258) G_GAN: -0.537 ContentLoss: 14.998 D_real+fake: -0.201 
+(epoch: 134, iters: 504, time: 0.282) G_GAN: 0.268 ContentLoss: 17.242 D_real+fake: -0.702 
+(epoch: 135, iters: 192, time: 0.263) G_GAN: -1.099 ContentLoss: 19.952 D_real+fake: -0.454 
+(epoch: 135, iters: 492, time: 0.266) G_GAN: -0.659 ContentLoss: 11.759 D_real+fake: -0.171 
+(epoch: 136, iters: 180, time: 0.256) G_GAN: -1.024 ContentLoss: 19.013 D_real+fake: -0.384 
+(epoch: 136, iters: 480, time: 0.276) G_GAN: -0.450 ContentLoss: 18.954 D_real+fake: -0.526 
+(epoch: 137, iters: 168, time: 0.278) G_GAN: -0.145 ContentLoss: 16.316 D_real+fake: -0.412 
+(epoch: 137, iters: 468, time: 0.269) G_GAN: -2.030 ContentLoss: 18.546 D_real+fake: -0.366 
+(epoch: 138, iters: 156, time: 0.269) G_GAN: -0.977 ContentLoss: 17.910 D_real+fake: -0.422 
+(epoch: 138, iters: 456, time: 0.266) G_GAN: -1.075 ContentLoss: 13.367 D_real+fake: -0.185 
+(epoch: 139, iters: 144, time: 0.262) G_GAN: 0.704 ContentLoss: 32.986 D_real+fake: -1.316 
+(epoch: 139, iters: 444, time: 0.269) G_GAN: 1.292 ContentLoss: 9.080 D_real+fake: -0.090 
+(epoch: 140, iters: 132, time: 0.271) G_GAN: 0.502 ContentLoss: 12.140 D_real+fake: -0.256 
+(epoch: 140, iters: 432, time: 0.281) G_GAN: 1.135 ContentLoss: 9.246 D_real+fake: -0.160 
+(epoch: 141, iters: 120, time: 0.272) G_GAN: -0.639 ContentLoss: 23.095 D_real+fake: -0.391 
+(epoch: 141, iters: 420, time: 0.269) G_GAN: -0.444 ContentLoss: 20.404 D_real+fake: -0.308 
+(epoch: 142, iters: 108, time: 0.263) G_GAN: -0.533 ContentLoss: 16.720 D_real+fake: -0.193 
+(epoch: 142, iters: 408, time: 0.269) G_GAN: -0.993 ContentLoss: 14.705 D_real+fake: -0.278 
+(epoch: 143, iters: 96, time: 0.283) G_GAN: 0.438 ContentLoss: 24.441 D_real+fake: -0.674 
+(epoch: 143, iters: 396, time: 0.277) G_GAN: -0.043 ContentLoss: 10.477 D_real+fake: -0.067 
+(epoch: 144, iters: 84, time: 0.261) G_GAN: -1.999 ContentLoss: 16.762 D_real+fake: -0.313 
+(epoch: 144, iters: 384, time: 0.260) G_GAN: -1.267 ContentLoss: 11.231 D_real+fake: -0.146 
+(epoch: 145, iters: 72, time: 0.279) G_GAN: -1.095 ContentLoss: 15.400 D_real+fake: -0.306 
+(epoch: 145, iters: 372, time: 0.272) G_GAN: 0.886 ContentLoss: 12.668 D_real+fake: -0.184 
+(epoch: 146, iters: 60, time: 0.267) G_GAN: -0.058 ContentLoss: 18.169 D_real+fake: -0.650 
+(epoch: 146, iters: 360, time: 0.267) G_GAN: -0.606 ContentLoss: 11.209 D_real+fake: -0.150 
+(epoch: 147, iters: 48, time: 0.293) G_GAN: -0.170 ContentLoss: 19.347 D_real+fake: -0.397 
+(epoch: 147, iters: 348, time: 0.274) G_GAN: -1.181 ContentLoss: 21.875 D_real+fake: -0.329 
+(epoch: 148, iters: 36, time: 0.403) G_GAN: -2.686 ContentLoss: 14.521 D_real+fake: -0.248 
+(epoch: 148, iters: 336, time: 0.264) G_GAN: 0.258 ContentLoss: 16.792 D_real+fake: -0.310 
+(epoch: 149, iters: 24, time: 0.396) G_GAN: -0.048 ContentLoss: 16.023 D_real+fake: -0.368 
+(epoch: 149, iters: 324, time: 0.279) G_GAN: -0.829 ContentLoss: 16.553 D_real+fake: -0.287 
+(epoch: 150, iters: 12, time: 0.498) G_GAN: -1.987 ContentLoss: 17.969 D_real+fake: -0.401 
+(epoch: 150, iters: 312, time: 0.281) G_GAN: -0.270 ContentLoss: 10.731 D_real+fake: -0.217 
+(epoch: 150, iters: 612, time: 0.259) G_GAN: -2.226 ContentLoss: 23.662 D_real+fake: -0.471 
+(epoch: 151, iters: 300, time: 0.273) G_GAN: 2.817 ContentLoss: 22.775 D_real+fake: -3.066 
+(epoch: 151, iters: 600, time: 0.259) G_GAN: -2.144 ContentLoss: 20.451 D_real+fake: -0.375 
+(epoch: 152, iters: 288, time: 0.273) G_GAN: -0.543 ContentLoss: 10.568 D_real+fake: -0.097 
+(epoch: 152, iters: 588, time: 0.279) G_GAN: -0.660 ContentLoss: 13.130 D_real+fake: -0.183 
+(epoch: 153, iters: 276, time: 0.263) G_GAN: -0.943 ContentLoss: 15.955 D_real+fake: -0.133 
+(epoch: 153, iters: 576, time: 0.264) G_GAN: -0.239 ContentLoss: 18.999 D_real+fake: -0.398 
+(epoch: 154, iters: 264, time: 0.263) G_GAN: -0.969 ContentLoss: 16.486 D_real+fake: -0.527 
+(epoch: 154, iters: 564, time: 0.271) G_GAN: -0.283 ContentLoss: 14.828 D_real+fake: -0.117 
+(epoch: 155, iters: 252, time: 0.277) G_GAN: -0.438 ContentLoss: 20.972 D_real+fake: -0.276 
+(epoch: 155, iters: 552, time: 0.268) G_GAN: -0.649 ContentLoss: 24.144 D_real+fake: -0.395 
+(epoch: 156, iters: 240, time: 0.270) G_GAN: -0.457 ContentLoss: 18.560 D_real+fake: -0.512 
+(epoch: 156, iters: 540, time: 0.277) G_GAN: -0.501 ContentLoss: 10.336 D_real+fake: -0.424 
+(epoch: 157, iters: 228, time: 0.262) G_GAN: -0.671 ContentLoss: 16.070 D_real+fake: -0.534 
+(epoch: 157, iters: 528, time: 0.276) G_GAN: 1.127 ContentLoss: 21.100 D_real+fake: -0.349 
+(epoch: 158, iters: 216, time: 0.267) G_GAN: -0.583 ContentLoss: 17.811 D_real+fake: -0.276 
+(epoch: 158, iters: 516, time: 0.270) G_GAN: -1.104 ContentLoss: 15.151 D_real+fake: -0.120 
+(epoch: 159, iters: 204, time: 0.282) G_GAN: -0.115 ContentLoss: 18.170 D_real+fake: -0.402 
+(epoch: 159, iters: 504, time: 0.270) G_GAN: -0.937 ContentLoss: 16.286 D_real+fake: -0.197 
+(epoch: 160, iters: 192, time: 0.262) G_GAN: -1.323 ContentLoss: 18.444 D_real+fake: -0.192 
+(epoch: 160, iters: 492, time: 0.283) G_GAN: -0.191 ContentLoss: 13.766 D_real+fake: -0.440 
+(epoch: 161, iters: 180, time: 0.268) G_GAN: -0.639 ContentLoss: 13.881 D_real+fake: -0.141 
+(epoch: 161, iters: 480, time: 0.266) G_GAN: -0.606 ContentLoss: 19.071 D_real+fake: -0.271 
+(epoch: 162, iters: 168, time: 0.286) G_GAN: -1.273 ContentLoss: 20.734 D_real+fake: -0.355 
+(epoch: 162, iters: 468, time: 0.279) G_GAN: 0.641 ContentLoss: 20.351 D_real+fake: -0.549 
+(epoch: 163, iters: 156, time: 0.270) G_GAN: -2.074 ContentLoss: 11.297 D_real+fake: -0.162 
+(epoch: 163, iters: 456, time: 0.262) G_GAN: 0.013 ContentLoss: 19.921 D_real+fake: -0.394 
+(epoch: 164, iters: 144, time: 0.276) G_GAN: 0.103 ContentLoss: 30.637 D_real+fake: -0.853 
+(epoch: 164, iters: 444, time: 0.276) G_GAN: -0.010 ContentLoss: 13.807 D_real+fake: -0.099 
+(epoch: 165, iters: 132, time: 0.278) G_GAN: -0.445 ContentLoss: 20.553 D_real+fake: -0.433 
+(epoch: 165, iters: 432, time: 0.270) G_GAN: 0.552 ContentLoss: 14.258 D_real+fake: -0.336 
+(epoch: 166, iters: 120, time: 0.267) G_GAN: -1.033 ContentLoss: 16.583 D_real+fake: -0.244 
+(epoch: 166, iters: 420, time: 0.267) G_GAN: -0.718 ContentLoss: 20.090 D_real+fake: -0.615 
+(epoch: 167, iters: 108, time: 0.281) G_GAN: -1.932 ContentLoss: 17.972 D_real+fake: -0.285 
+(epoch: 167, iters: 408, time: 0.271) G_GAN: -0.893 ContentLoss: 10.313 D_real+fake: -0.089 
+(epoch: 168, iters: 96, time: 0.263) G_GAN: -1.864 ContentLoss: 22.333 D_real+fake: -0.172 
+(epoch: 168, iters: 396, time: 0.281) G_GAN: 0.004 ContentLoss: 19.319 D_real+fake: -0.631 
+(epoch: 169, iters: 84, time: 0.273) G_GAN: -0.809 ContentLoss: 16.636 D_real+fake: -0.275 
+(epoch: 169, iters: 384, time: 0.263) G_GAN: -0.677 ContentLoss: 24.226 D_real+fake: -0.412 
+(epoch: 170, iters: 72, time: 0.267) G_GAN: -0.774 ContentLoss: 15.279 D_real+fake: -2.478 
+(epoch: 170, iters: 372, time: 0.274) G_GAN: -0.752 ContentLoss: 17.080 D_real+fake: -0.228 
+(epoch: 171, iters: 60, time: 0.277) G_GAN: -0.484 ContentLoss: 17.098 D_real+fake: -0.223 
+(epoch: 171, iters: 360, time: 0.261) G_GAN: -1.206 ContentLoss: 20.131 D_real+fake: -0.189 
+(epoch: 172, iters: 48, time: 0.265) G_GAN: -1.739 ContentLoss: 16.703 D_real+fake: -0.241 
+(epoch: 172, iters: 348, time: 0.262) G_GAN: 0.530 ContentLoss: 24.370 D_real+fake: -0.840 
+(epoch: 173, iters: 36, time: 0.348) G_GAN: -0.666 ContentLoss: 21.518 D_real+fake: -0.339 
+(epoch: 173, iters: 336, time: 0.276) G_GAN: -1.217 ContentLoss: 21.781 D_real+fake: -0.288 
+(epoch: 174, iters: 24, time: 0.370) G_GAN: -0.388 ContentLoss: 22.704 D_real+fake: -0.741 
+(epoch: 174, iters: 324, time: 0.261) G_GAN: -0.816 ContentLoss: 21.800 D_real+fake: -0.458 
+(epoch: 175, iters: 12, time: 0.434) G_GAN: 0.454 ContentLoss: 18.552 D_real+fake: -0.549 
+(epoch: 175, iters: 312, time: 0.268) G_GAN: -0.030 ContentLoss: 15.894 D_real+fake: -0.463 
+(epoch: 175, iters: 612, time: 0.274) G_GAN: -0.030 ContentLoss: 12.664 D_real+fake: -0.193 
+(epoch: 176, iters: 300, time: 0.262) G_GAN: -0.861 ContentLoss: 14.738 D_real+fake: -0.324 
+(epoch: 176, iters: 600, time: 0.265) G_GAN: -0.305 ContentLoss: 14.508 D_real+fake: -0.273 
+(epoch: 177, iters: 288, time: 0.264) G_GAN: -0.614 ContentLoss: 25.420 D_real+fake: -0.353 
+(epoch: 177, iters: 588, time: 0.282) G_GAN: 1.090 ContentLoss: 21.013 D_real+fake: -0.493 
+(epoch: 178, iters: 276, time: 0.291) G_GAN: -0.943 ContentLoss: 13.194 D_real+fake: -0.353 
+(epoch: 178, iters: 576, time: 0.261) G_GAN: 0.124 ContentLoss: 12.408 D_real+fake: -0.194 
+(epoch: 179, iters: 264, time: 0.280) G_GAN: 0.593 ContentLoss: 23.843 D_real+fake: -0.863 
+(epoch: 179, iters: 564, time: 0.273) G_GAN: 0.403 ContentLoss: 15.434 D_real+fake: -0.376 
+(epoch: 180, iters: 252, time: 0.270) G_GAN: -0.167 ContentLoss: 23.056 D_real+fake: -0.605 
+(epoch: 180, iters: 552, time: 0.281) G_GAN: -0.186 ContentLoss: 17.333 D_real+fake: -0.318 
+(epoch: 181, iters: 240, time: 0.261) G_GAN: -0.428 ContentLoss: 14.973 D_real+fake: -0.283 
+(epoch: 181, iters: 540, time: 0.271) G_GAN: 0.659 ContentLoss: 26.831 D_real+fake: -0.447 
+(epoch: 182, iters: 228, time: 0.273) G_GAN: -0.680 ContentLoss: 24.481 D_real+fake: -0.629 
+(epoch: 182, iters: 528, time: 0.269) G_GAN: 1.036 ContentLoss: 22.665 D_real+fake: -0.473 
+(epoch: 183, iters: 216, time: 0.265) G_GAN: 0.517 ContentLoss: 11.075 D_real+fake: -0.196 
+(epoch: 183, iters: 516, time: 0.264) G_GAN: -0.800 ContentLoss: 24.303 D_real+fake: -0.750 
+(epoch: 184, iters: 204, time: 0.272) G_GAN: -1.193 ContentLoss: 13.921 D_real+fake: -0.315 
+(epoch: 184, iters: 504, time: 0.265) G_GAN: -0.947 ContentLoss: 25.630 D_real+fake: -0.660 
+(epoch: 185, iters: 192, time: 0.272) G_GAN: -2.650 ContentLoss: 33.454 D_real+fake: -0.686 
+(epoch: 185, iters: 492, time: 0.266) G_GAN: -1.038 ContentLoss: 20.160 D_real+fake: -0.463 
+(epoch: 186, iters: 180, time: 0.276) G_GAN: 0.411 ContentLoss: 6.552 D_real+fake: -0.121 
+(epoch: 186, iters: 480, time: 0.276) G_GAN: -0.091 ContentLoss: 23.699 D_real+fake: -0.255 
+(epoch: 187, iters: 168, time: 0.265) G_GAN: -0.670 ContentLoss: 18.144 D_real+fake: -0.313 
+(epoch: 187, iters: 468, time: 0.265) G_GAN: -0.190 ContentLoss: 16.175 D_real+fake: -0.199 
+(epoch: 188, iters: 156, time: 0.269) G_GAN: -0.434 ContentLoss: 20.373 D_real+fake: -0.366 
+(epoch: 188, iters: 456, time: 0.274) G_GAN: -0.774 ContentLoss: 7.981 D_real+fake: -0.049 
+(epoch: 189, iters: 144, time: 0.265) G_GAN: 0.349 ContentLoss: 17.312 D_real+fake: -0.264 
+(epoch: 189, iters: 444, time: 0.267) G_GAN: -0.785 ContentLoss: 20.325 D_real+fake: -0.528 
+(epoch: 190, iters: 132, time: 0.291) G_GAN: -0.646 ContentLoss: 20.812 D_real+fake: -0.775 
+(epoch: 190, iters: 432, time: 0.281) G_GAN: -0.108 ContentLoss: 11.733 D_real+fake: -0.248 
+(epoch: 191, iters: 120, time: 0.269) G_GAN: -0.563 ContentLoss: 22.884 D_real+fake: -0.299 
+(epoch: 191, iters: 420, time: 0.293) G_GAN: 0.925 ContentLoss: 16.837 D_real+fake: -0.863 
+(epoch: 192, iters: 108, time: 0.273) G_GAN: -1.272 ContentLoss: 9.250 D_real+fake: -0.126 
+(epoch: 192, iters: 408, time: 0.275) G_GAN: -1.236 ContentLoss: 19.633 D_real+fake: -0.204 
+(epoch: 193, iters: 96, time: 0.267) G_GAN: -0.206 ContentLoss: 11.496 D_real+fake: -0.199 
+(epoch: 193, iters: 396, time: 0.281) G_GAN: -0.516 ContentLoss: 28.506 D_real+fake: -0.666 
+(epoch: 194, iters: 84, time: 0.269) G_GAN: 0.098 ContentLoss: 17.035 D_real+fake: -0.253 
+(epoch: 194, iters: 384, time: 0.267) G_GAN: -1.458 ContentLoss: 16.275 D_real+fake: -0.229 
+(epoch: 195, iters: 72, time: 0.262) G_GAN: -0.005 ContentLoss: 22.238 D_real+fake: -0.169 
+(epoch: 195, iters: 372, time: 0.267) G_GAN: -0.396 ContentLoss: 17.759 D_real+fake: -0.169 
+(epoch: 196, iters: 60, time: 0.275) G_GAN: -0.753 ContentLoss: 18.121 D_real+fake: -0.358 
+(epoch: 196, iters: 360, time: 0.265) G_GAN: -1.380 ContentLoss: 15.172 D_real+fake: -0.085 
+(epoch: 197, iters: 48, time: 0.284) G_GAN: -1.482 ContentLoss: 19.326 D_real+fake: -0.461 
+(epoch: 197, iters: 348, time: 0.282) G_GAN: -0.971 ContentLoss: 15.051 D_real+fake: -0.204 
+(epoch: 198, iters: 36, time: 0.365) G_GAN: -0.515 ContentLoss: 32.050 D_real+fake: -0.814 
+(epoch: 198, iters: 336, time: 0.266) G_GAN: -0.832 ContentLoss: 22.104 D_real+fake: -0.875 
+(epoch: 199, iters: 24, time: 0.431) G_GAN: -1.956 ContentLoss: 20.624 D_real+fake: -0.470 
+(epoch: 199, iters: 324, time: 0.266) G_GAN: 0.129 ContentLoss: 13.762 D_real+fake: -0.271 
+(epoch: 200, iters: 12, time: 0.441) G_GAN: -1.231 ContentLoss: 14.286 D_real+fake: -0.621 
+(epoch: 200, iters: 312, time: 0.276) G_GAN: -1.194 ContentLoss: 16.321 D_real+fake: -0.364 
+(epoch: 200, iters: 612, time: 0.271) G_GAN: -0.641 ContentLoss: 14.996 D_real+fake: -0.410 
+(epoch: 201, iters: 300, time: 0.275) G_GAN: 1.034 ContentLoss: 13.689 D_real+fake: -0.674 
+(epoch: 201, iters: 600, time: 0.285) G_GAN: -1.566 ContentLoss: 16.635 D_real+fake: -0.240 
+(epoch: 202, iters: 288, time: 0.276) G_GAN: -0.355 ContentLoss: 10.444 D_real+fake: -0.099 
+(epoch: 202, iters: 588, time: 0.277) G_GAN: -0.717 ContentLoss: 19.863 D_real+fake: -0.299 
+(epoch: 203, iters: 276, time: 0.280) G_GAN: -1.723 ContentLoss: 16.874 D_real+fake: -0.248 
+(epoch: 203, iters: 576, time: 0.273) G_GAN: -0.178 ContentLoss: 20.469 D_real+fake: -0.258 
+(epoch: 204, iters: 264, time: 0.271) G_GAN: 0.134 ContentLoss: 13.888 D_real+fake: -0.207 
+(epoch: 204, iters: 564, time: 0.266) G_GAN: -0.897 ContentLoss: 15.241 D_real+fake: -0.429 
+(epoch: 205, iters: 252, time: 0.267) G_GAN: -0.589 ContentLoss: 13.317 D_real+fake: -0.283 
+(epoch: 205, iters: 552, time: 0.278) G_GAN: -1.808 ContentLoss: 18.112 D_real+fake: -0.125 
+(epoch: 206, iters: 240, time: 0.263) G_GAN: -0.657 ContentLoss: 16.010 D_real+fake: -0.383 
+(epoch: 206, iters: 540, time: 0.284) G_GAN: 0.023 ContentLoss: 20.947 D_real+fake: -0.358 
+(epoch: 207, iters: 228, time: 0.261) G_GAN: -0.377 ContentLoss: 16.223 D_real+fake: -0.411 
+(epoch: 207, iters: 528, time: 0.275) G_GAN: -1.160 ContentLoss: 10.785 D_real+fake: -0.235 
+(epoch: 208, iters: 216, time: 0.266) G_GAN: -0.870 ContentLoss: 14.678 D_real+fake: -0.537 
+(epoch: 208, iters: 516, time: 0.274) G_GAN: 0.464 ContentLoss: 11.603 D_real+fake: -0.196 
+(epoch: 209, iters: 204, time: 0.263) G_GAN: -0.494 ContentLoss: 24.412 D_real+fake: -0.441 
+(epoch: 209, iters: 504, time: 0.261) G_GAN: 0.349 ContentLoss: 16.065 D_real+fake: -0.377 
+(epoch: 210, iters: 192, time: 0.276) G_GAN: -0.775 ContentLoss: 15.212 D_real+fake: -0.403 
+(epoch: 210, iters: 492, time: 0.278) G_GAN: -1.648 ContentLoss: 20.932 D_real+fake: -0.426 
+(epoch: 211, iters: 180, time: 0.268) G_GAN: -1.375 ContentLoss: 25.846 D_real+fake: -0.679 
+(epoch: 211, iters: 480, time: 0.276) G_GAN: -1.516 ContentLoss: 22.111 D_real+fake: -0.425 
+(epoch: 212, iters: 168, time: 0.279) G_GAN: -0.872 ContentLoss: 17.465 D_real+fake: -0.242 
+(epoch: 212, iters: 468, time: 0.276) G_GAN: -0.686 ContentLoss: 13.643 D_real+fake: -0.163 
+(epoch: 213, iters: 156, time: 0.265) G_GAN: -0.486 ContentLoss: 24.485 D_real+fake: -0.388 
+(epoch: 213, iters: 456, time: 0.278) G_GAN: -0.516 ContentLoss: 17.305 D_real+fake: -0.168 
+(epoch: 214, iters: 144, time: 0.266) G_GAN: 0.062 ContentLoss: 16.798 D_real+fake: -0.294 
+(epoch: 214, iters: 444, time: 0.273) G_GAN: 0.020 ContentLoss: 19.953 D_real+fake: -0.411 
+(epoch: 215, iters: 132, time: 0.262) G_GAN: -0.547 ContentLoss: 23.190 D_real+fake: -0.386 
+(epoch: 215, iters: 432, time: 0.274) G_GAN: -0.049 ContentLoss: 20.244 D_real+fake: -0.375 
+(epoch: 216, iters: 120, time: 0.263) G_GAN: -0.181 ContentLoss: 14.255 D_real+fake: -0.107 
+(epoch: 216, iters: 420, time: 0.275) G_GAN: -0.456 ContentLoss: 18.166 D_real+fake: -0.315 
+(epoch: 217, iters: 108, time: 0.265) G_GAN: -1.198 ContentLoss: 17.385 D_real+fake: -0.238 
+(epoch: 217, iters: 408, time: 0.263) G_GAN: -0.567 ContentLoss: 16.784 D_real+fake: -0.376 
+(epoch: 218, iters: 96, time: 0.265) G_GAN: 0.145 ContentLoss: 13.113 D_real+fake: -0.314 
+(epoch: 218, iters: 396, time: 0.277) G_GAN: 0.007 ContentLoss: 13.762 D_real+fake: -0.190 
+(epoch: 219, iters: 84, time: 0.270) G_GAN: -0.533 ContentLoss: 19.246 D_real+fake: -0.603 
+(epoch: 219, iters: 384, time: 0.259) G_GAN: -1.323 ContentLoss: 22.550 D_real+fake: -0.513 
+(epoch: 220, iters: 72, time: 0.259) G_GAN: -0.211 ContentLoss: 20.593 D_real+fake: -0.268 
+(epoch: 220, iters: 372, time: 0.276) G_GAN: -0.606 ContentLoss: 18.146 D_real+fake: -0.631 
+(epoch: 221, iters: 60, time: 0.269) G_GAN: -0.172 ContentLoss: 17.045 D_real+fake: -0.565 
+(epoch: 221, iters: 360, time: 0.265) G_GAN: -0.008 ContentLoss: 15.943 D_real+fake: -1.078 
+(epoch: 222, iters: 48, time: 0.288) G_GAN: -0.704 ContentLoss: 20.560 D_real+fake: -0.230 
+(epoch: 222, iters: 348, time: 0.269) G_GAN: -1.282 ContentLoss: 14.432 D_real+fake: -0.251 
+(epoch: 223, iters: 36, time: 0.338) G_GAN: -0.842 ContentLoss: 18.751 D_real+fake: -0.298 
+(epoch: 223, iters: 336, time: 0.269) G_GAN: -1.085 ContentLoss: 25.643 D_real+fake: -0.437 
+(epoch: 224, iters: 24, time: 0.423) G_GAN: -0.914 ContentLoss: 14.715 D_real+fake: -0.370 
+(epoch: 224, iters: 324, time: 0.274) G_GAN: -0.984 ContentLoss: 18.999 D_real+fake: -0.122 
+(epoch: 225, iters: 12, time: 0.394) G_GAN: -0.509 ContentLoss: 18.677 D_real+fake: -0.329 
+(epoch: 225, iters: 312, time: 0.277) G_GAN: -0.254 ContentLoss: 14.191 D_real+fake: -0.221 
+(epoch: 225, iters: 612, time: 0.269) G_GAN: -1.313 ContentLoss: 17.953 D_real+fake: -0.330 
+(epoch: 226, iters: 300, time: 0.274) G_GAN: -0.045 ContentLoss: 10.596 D_real+fake: -0.224 
+(epoch: 226, iters: 600, time: 0.284) G_GAN: -0.952 ContentLoss: 24.422 D_real+fake: -0.429 
+(epoch: 227, iters: 288, time: 0.267) G_GAN: -1.253 ContentLoss: 19.723 D_real+fake: -0.349 
+(epoch: 227, iters: 588, time: 0.275) G_GAN: -1.213 ContentLoss: 24.865 D_real+fake: -0.473 
+(epoch: 228, iters: 276, time: 0.268) G_GAN: -0.276 ContentLoss: 20.763 D_real+fake: -0.396 
+(epoch: 228, iters: 576, time: 0.279) G_GAN: 0.604 ContentLoss: 16.532 D_real+fake: -1.348 
+(epoch: 229, iters: 264, time: 0.268) G_GAN: -1.147 ContentLoss: 15.421 D_real+fake: -0.187 
+(epoch: 229, iters: 564, time: 0.278) G_GAN: -0.917 ContentLoss: 9.686 D_real+fake: -0.127 
+(epoch: 230, iters: 252, time: 0.262) G_GAN: -1.081 ContentLoss: 20.584 D_real+fake: -0.461 
+(epoch: 230, iters: 552, time: 0.277) G_GAN: 0.944 ContentLoss: 21.417 D_real+fake: -2.767 
+(epoch: 231, iters: 240, time: 0.272) G_GAN: -0.226 ContentLoss: 17.318 D_real+fake: -0.439 
+(epoch: 231, iters: 540, time: 0.260) G_GAN: -0.305 ContentLoss: 18.166 D_real+fake: -0.185 
+(epoch: 232, iters: 228, time: 0.280) G_GAN: -1.193 ContentLoss: 19.926 D_real+fake: -0.587 
+(epoch: 232, iters: 528, time: 0.273) G_GAN: -1.612 ContentLoss: 18.854 D_real+fake: -0.299 
+(epoch: 233, iters: 216, time: 0.267) G_GAN: -0.980 ContentLoss: 14.633 D_real+fake: -0.171 
+(epoch: 233, iters: 516, time: 0.276) G_GAN: -0.486 ContentLoss: 13.132 D_real+fake: -0.242 
+(epoch: 234, iters: 204, time: 0.273) G_GAN: -1.127 ContentLoss: 17.396 D_real+fake: -0.412 
+(epoch: 234, iters: 504, time: 0.283) G_GAN: -1.457 ContentLoss: 24.910 D_real+fake: -0.561 
+(epoch: 235, iters: 192, time: 0.275) G_GAN: -0.562 ContentLoss: 18.921 D_real+fake: -0.364 
+(epoch: 235, iters: 492, time: 0.273) G_GAN: 0.100 ContentLoss: 15.738 D_real+fake: -0.715 
+(epoch: 236, iters: 180, time: 0.273) G_GAN: -0.769 ContentLoss: 18.524 D_real+fake: -0.315 
+(epoch: 236, iters: 480, time: 0.277) G_GAN: -0.015 ContentLoss: 13.453 D_real+fake: -0.245 
+(epoch: 237, iters: 168, time: 0.294) G_GAN: 0.581 ContentLoss: 19.244 D_real+fake: -0.349 
+(epoch: 237, iters: 468, time: 0.266) G_GAN: -0.816 ContentLoss: 12.679 D_real+fake: -0.149 
+(epoch: 238, iters: 156, time: 0.284) G_GAN: 0.403 ContentLoss: 14.027 D_real+fake: -0.447 
+(epoch: 238, iters: 456, time: 0.283) G_GAN: -0.323 ContentLoss: 21.704 D_real+fake: -0.524 
+(epoch: 239, iters: 144, time: 0.285) G_GAN: -0.560 ContentLoss: 14.696 D_real+fake: -0.264 
+(epoch: 239, iters: 444, time: 0.270) G_GAN: -0.651 ContentLoss: 14.537 D_real+fake: -0.321 
+(epoch: 240, iters: 132, time: 0.276) G_GAN: -0.536 ContentLoss: 13.742 D_real+fake: -0.313 
+(epoch: 240, iters: 432, time: 0.280) G_GAN: -0.961 ContentLoss: 13.119 D_real+fake: -0.232 
+(epoch: 241, iters: 120, time: 0.271) G_GAN: 0.152 ContentLoss: 12.692 D_real+fake: -0.155 
+(epoch: 241, iters: 420, time: 0.283) G_GAN: -0.487 ContentLoss: 20.008 D_real+fake: -0.375 
+(epoch: 242, iters: 108, time: 0.281) G_GAN: -0.218 ContentLoss: 22.215 D_real+fake: -0.648 
+(epoch: 242, iters: 408, time: 0.275) G_GAN: -0.659 ContentLoss: 16.707 D_real+fake: -0.344 
+(epoch: 243, iters: 96, time: 0.288) G_GAN: -1.013 ContentLoss: 20.751 D_real+fake: -0.403 
+(epoch: 243, iters: 396, time: 0.270) G_GAN: 0.469 ContentLoss: 15.132 D_real+fake: -0.169 
+(epoch: 244, iters: 84, time: 0.275) G_GAN: 0.041 ContentLoss: 13.655 D_real+fake: -0.145 
+(epoch: 244, iters: 384, time: 0.264) G_GAN: -0.368 ContentLoss: 19.503 D_real+fake: -0.455 
+(epoch: 245, iters: 72, time: 0.275) G_GAN: -0.405 ContentLoss: 13.908 D_real+fake: -0.280 
+(epoch: 245, iters: 372, time: 0.264) G_GAN: -0.732 ContentLoss: 22.015 D_real+fake: -0.340 
+(epoch: 246, iters: 60, time: 0.272) G_GAN: -0.370 ContentLoss: 20.403 D_real+fake: -0.392 
+(epoch: 246, iters: 360, time: 0.264) G_GAN: -0.674 ContentLoss: 17.829 D_real+fake: -0.323 
+(epoch: 247, iters: 48, time: 0.271) G_GAN: 0.908 ContentLoss: 22.966 D_real+fake: -0.365 
+(epoch: 247, iters: 348, time: 0.266) G_GAN: -0.200 ContentLoss: 16.140 D_real+fake: -0.318 
+(epoch: 248, iters: 36, time: 0.329) G_GAN: -0.144 ContentLoss: 13.339 D_real+fake: -0.297 
+(epoch: 248, iters: 336, time: 0.271) G_GAN: -0.599 ContentLoss: 14.511 D_real+fake: -0.337 
+(epoch: 249, iters: 24, time: 0.411) G_GAN: -0.831 ContentLoss: 13.483 D_real+fake: -0.196 
+(epoch: 249, iters: 324, time: 0.267) G_GAN: -0.999 ContentLoss: 15.232 D_real+fake: -0.204 
+(epoch: 250, iters: 12, time: 0.408) G_GAN: -1.222 ContentLoss: 38.252 D_real+fake: -1.032 
+(epoch: 250, iters: 312, time: 0.286) G_GAN: -0.356 ContentLoss: 18.648 D_real+fake: -0.457 
+(epoch: 250, iters: 612, time: 0.272) G_GAN: -0.577 ContentLoss: 13.800 D_real+fake: -0.189 
+================ Training Loss (Mon May  2 14:33:00 2022) ================
+================ Training Loss (Mon May  2 14:33:37 2022) ================
+================ Training Loss (Mon May  2 14:33:50 2022) ================
+================ Training Loss (Mon May  2 14:34:01 2022) ================
+================ Training Loss (Wed May  4 14:05:06 2022) ================
+================ Training Loss (Wed May  4 14:19:36 2022) ================
+================ Training Loss (Wed May  4 19:51:04 2022) ================
+================ Training Loss (Wed May  4 22:28:33 2022) ================
+================ Training Loss (Thu May  5 16:43:56 2022) ================
+================ Training Loss (Mon May 16 16:43:56 2022) ================
+================ Training Loss (Tue May 17 12:25:02 2022) ================
+================ Training Loss (Thu May 19 16:11:45 2022) ================
+================ Training Loss (Thu May 19 16:15:35 2022) ================
+================ Training Loss (Thu May 19 16:18:19 2022) ================
+================ Training Loss (Sat Jun 11 16:21:25 2022) ================
+================ Training Loss (Sat Jun 11 16:24:36 2022) ================
+================ Training Loss (Sat Jun 11 16:25:57 2022) ================
+================ Training Loss (Sat Jun 11 16:26:57 2022) ================
+================ Training Loss (Sat Jun 11 16:38:03 2022) ================
+================ Training Loss (Sat Jun 11 16:48:15 2022) ================
+================ Training Loss (Sat Jun 11 16:51:30 2022) ================
+================ Training Loss (Sat Jun 11 16:52:56 2022) ================
+================ Training Loss (Sat Jun 11 16:58:17 2022) ================
+================ Training Loss (Sat Jun 11 17:01:39 2022) ================
+================ Training Loss (Sat Jun 11 17:03:39 2022) ================
+================ Training Loss (Sat Jun 11 17:04:47 2022) ================
+================ Training Loss (Sat Jun 11 17:07:39 2022) ================
+================ Training Loss (Sat Jun 11 17:11:42 2022) ================
+================ Training Loss (Sat Jun 11 17:23:38 2022) ================
+================ Training Loss (Sat Jun 11 17:26:00 2022) ================
+================ Training Loss (Sat Jun 11 17:52:18 2022) ================
+================ Training Loss (Sat Jun 11 17:54:40 2022) ================
+================ Training Loss (Sat Jun 11 18:16:09 2022) ================
+================ Training Loss (Sat Jun 11 19:12:35 2022) ================
+================ Training Loss (Sat Jun 11 19:16:38 2022) ================
+================ Training Loss (Sat Jun 11 19:23:59 2022) ================
+================ Training Loss (Sat Jun 11 19:24:21 2022) ================
+================ Training Loss (Sun Jun 12 17:59:17 2022) ================
+================ Training Loss (Sun Jun 12 18:01:54 2022) ================
+================ Training Loss (Sun Jun 12 18:05:40 2022) ================
+================ Training Loss (Sun Jun 12 18:06:56 2022) ================
+================ Training Loss (Sun Jun 12 18:08:02 2022) ================
+================ Training Loss (Sun Jun 12 18:08:41 2022) ================
+================ Training Loss (Sun Jun 12 18:09:16 2022) ================
+================ Training Loss (Sun Jun 12 18:09:46 2022) ================
+================ Training Loss (Sun Jun 12 18:12:08 2022) ================
+================ Training Loss (Sun Jun 12 18:13:04 2022) ================
+================ Training Loss (Sun Jun 12 18:14:47 2022) ================
+================ Training Loss (Sun Jun 12 18:18:48 2022) ================
+================ Training Loss (Sun Jun 12 18:21:35 2022) ================
+================ Training Loss (Sun Jun 12 18:22:16 2022) ================
+================ Training Loss (Sun Jun 12 18:40:58 2022) ================
+================ Training Loss (Sun Jun 12 18:42:18 2022) ================
+================ Training Loss (Sun Jun 12 18:47:22 2022) ================
+================ Training Loss (Sun Jun 12 19:27:59 2022) ================
+================ Training Loss (Mon Jun 13 21:16:01 2022) ================
+================ Training Loss (Mon Jun 13 21:26:10 2022) ================
+================ Training Loss (Mon Jun 13 21:26:42 2022) ================
+================ Training Loss (Mon Jun 13 21:27:35 2022) ================
+================ Training Loss (Mon Jun 13 21:27:50 2022) ================
+================ Training Loss (Mon Jun 13 21:28:41 2022) ================
+================ Training Loss (Mon Jun 13 21:29:04 2022) ================
+================ Training Loss (Mon Jun 13 21:56:50 2022) ================
+================ Training Loss (Mon Jun 13 21:59:53 2022) ================
+================ Training Loss (Mon Jun 13 22:00:31 2022) ================
+================ Training Loss (Mon Jun 13 22:03:25 2022) ================
+================ Training Loss (Mon Jun 13 22:05:35 2022) ================
+================ Training Loss (Mon Jun 13 22:07:48 2022) ================
