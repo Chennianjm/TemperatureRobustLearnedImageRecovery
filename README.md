@@ -54,6 +54,7 @@ Based on the temperature detectors, the user can detect the temperature and invo
     
    ![simulation](paper_image/simulation.gif)
    ![real_capture](paper_image/real_capture.gif)
+   
    The GIF images are compressed so that the details are not obvious, see "paper_image/simulation.mp4" and "paper_image/real_capture.mp4" for clear details.
    
 
