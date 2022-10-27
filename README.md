@@ -2,9 +2,9 @@
 Official Implementation of the Paper "Temperature-robust Learned Image Recovery
 for Shallow-designed Imaging Systems"
 
-[Official Project Webpage](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200149)
+[Paper Address](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200149)
 
-If you have any questions, please directly comment on GitHub or through email:evanpeng@hku.hk, 22030006@zju.edu.cn.
+If you have any questions, please directly comment on GitHub or through email:evanpeng@hku.hk, 22030006@zju.edu.cn, 22030056@zju.edu.cn.
 
 # Instruction
 ![pipeline](paper_image/pipeline.png)
