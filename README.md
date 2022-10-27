@@ -2,6 +2,11 @@
 Official Implementation of the Paper "Temperature-robust Learned Image Recovery
 for Shallow-designed Imaging Systems"
 
+Wei Chen, Bingyun Qi, Xu Liu, Haifeng Li, Xiang Hao
+College of Optical Science and Engineering, Zhejiang University, Hangzhou, China
+Yifan Peng
+Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong, Hong Kong
+
 [Official Publication](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200149)
 
 If you have any questions, please directly comment on GitHub or through email: evanpeng@hku.hk, 22030006@zju.edu.cn, 22030056@zju.edu.cn.
