@@ -1,6 +1,6 @@
 # Temperature-robust Learned Image Recovery for Shallow-designed Imaging Systems
 Official Implementation of the Paper "Temperature-robust Learned Image Recovery
-for Shallow-designed Imaging Systems"
+for Shallow-designed Imaging Systems" \
 Wei Chen, Bingyun Qi, Xu Liu, Haifeng Li, Xiang Hao, and Yifan Peng*
 
 Wei Chen, Bingyun Qi, Xu Liu, Haifeng Li, Xiang Hao \
