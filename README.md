@@ -25,18 +25,18 @@ lowering the design and manufacturing cost of the imaging system.
 ## Prepare dataset
 **1**. Download the dataset and crop the image size
 
-    We assign 612 images as our training dataset and some ones as the test set from the [Adobe5K dataset](https://data.csail.mit.edu/graphics/fivek/), and 
+     We assign 612 images as our training dataset and some ones as the test set from the [Adobe5K dataset](https://data.csail.mit.edu/graphics/fivek/), and 
 resize them to 1920*1080 to match the common sensor specifications of these vehicle lenses. 
 
 **2**. Generate datasets belongs to different temperatures
 
-    In "PSF_convolution_simulation/PSF_convolution.m", we split the ground truth into a sequence of concentric rings to match PSFs in the corresponding field of view, and then convolve
+     In "PSF_convolution_simulation/PSF_convolution.m", we split the ground truth into a sequence of concentric rings to match PSFs in the corresponding field of view, and then convolve
 them with corresponding PSFs and add the Gaussian noise to simulate sensor responses. Among them of "PSF_convolution_simulation/PSF_info", the PSFs at different temperatures are obtained by the thermal
 analysis function of the OpticStudio.
 
 **3**. Construct the training pairs
 
-    Run the file "train_multi_branch\generate_aligned_dataset.py" to construct the training pairs, where the GT and simulated images are in distinct folders.
+     Run the file "train_multi_branch\generate_aligned_dataset.py" to construct the training pairs, where the GT and simulated images are in distinct folders.
      
 ## Training the network
    
